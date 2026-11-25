@@ -1,0 +1,13 @@
+## Local configuration template for HanziMemo
+## Copy this file to 'local.properties' and adjust the Android SDK location to match your environment.
+##
+## On Windows:
+## sdk.dir=C\:\\Users\\<your-user>\\AppData\\Local\\Android\\Sdk
+##
+## On macOS:
+## sdk.dir=/Users/<your-user>/Library/Android/sdk
+##
+## On Linux:
+## sdk.dir=/home/<your-user>/Android/Sdk
+
+sdk.dir=PATH_TO_YOUR_ANDROID_SDK

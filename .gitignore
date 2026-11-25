@@ -1,0 +1,48 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java bytecode
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Log files and crash dumps
+*.log
+hs_err_pid*.log
+replay_pid*.log
+
+# Android Studio / IntelliJ IDEA
+*.iml
+.gradle/
+build/
+*/build/
+.idea/
+!.idea/codeStyles/
+!.idea/copyright/
+
+# Local configuration files (SDK path, credentials)
+local.properties
+*.local
+
+# Signing keys
+*.jks
+*.keystore
+
+# Android profiling / captures
+captures/
+.externalNativeBuild
+.cxx/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
